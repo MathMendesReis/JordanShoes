@@ -1,9 +1,11 @@
 <script>
+	import SiteHeader from '../components/features/SiteHeader.svelte';
 	import './app.css';
 </script>
 
-<div class="app">
-	<main>
+<body class="">
+	<SiteHeader />
+	<main class="p-4">
 		<slot />
 	</main>
-</div>
+</body>
