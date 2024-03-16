@@ -1,39 +1,25 @@
-# create-svelte
+# <div align="center">JordanShoes</div>
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+## 📃 Sobre
+Aplicação: <br>
+<https://jordan-shoes-mu.vercel.app/>
 
-## Creating a project
+**JordanShoes** é o segundo de uma série de desafios propostos na [Comunidade Codelândia](https://discord.gg/QevDJqCzaY) e seguiu as especificações da seguinte UI: <br>
+[Figma](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=1883%3A2)
 
-If you're seeing this, you've probably already done this step. Congrats!
+Para ver os demais desafios, clique no link a seguir: <br>
+[Desafios](https://renans80.github.io/desafios-codelandia/)
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+---
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+## 💻 Tecnologias utilizadas 
+O projeto foi desenvolvido com as tecnologias abaixo: <br>
 
-## Developing
+* HTML
+* TYPESCRIPT
+* SVELTE
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+---
 
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
-# JordanShoes
+## 🎬 Interface
+![Home](https://ik.imagekit.io/zqxyh6u3ylz/JordanShoes/desafio2_Kppjax0Yo.jpg?updatedAt=1703618774586)
